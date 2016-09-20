@@ -1,0 +1,4 @@
+- refactor all test cases
+- I/O ? interface with existing ? (graphviz ?)
+- graph redimensionnement when it's too small ?
+- Makefile : add "test" target, and develop another sample
